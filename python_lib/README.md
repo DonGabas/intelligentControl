@@ -1,4 +1,4 @@
-## clab python library
+## tclab python library
 
 Modification to operate on the process and its corresponding Arduino sketch.
 
