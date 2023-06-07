@@ -1,6 +1,6 @@
 # Intelligent control techniques
 
-Three intelligent control techniques, a controller based on neural networks in an internal model control (IMC) structure, a fuzzy controller (FLC) and the tuning of a PID controller using genetic algorithm (AG).
+Three intelligent control techniques: a controller based on neural networks in an internal model control (IMC) structure, a fuzzy controller (FLC) and the tuning of a PID controller using genetic algorithm (AG).
 
 ## Process
 
