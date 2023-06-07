@@ -1,7 +1,6 @@
 # Intelligent control techniques
 
-Three intelligent control techniques, a controller based on neural networks in an internal model control (IMC) structure, a fuzzy controller (FLC) and the tuning of a PID controller using genetic algorithm (AG).
-
+Three intelligent control techniques: a controller based on neural networks in an internal model control (IMC) structure, a fuzzy controller (FLC) and the tuning of a PID controller using genetic algorithm (AG).
 ## Process
 
 The process under control is a temperature control device (based on the device https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl) implemented as a single-input single-output (SISO) system. The Arduino board and Python library code used for the implementation is a modification of the code developed by apmonitor for the TcLab.
